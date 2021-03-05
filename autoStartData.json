@@ -1,0 +1,31 @@
+{
+    "platforms": {
+        "ocp": {
+            "environments": {
+                "nbs-obc-dev": true,
+                "nbs-obc-test": true
+            }
+        },
+        "apigee": {
+            "environments": {
+                "nbs-obc-dev": true,
+                "nbs-obc-test": true
+            }
+        },
+        "ldap": {
+            "environments": {
+                "nbs-obc-dev": true,
+                "nbs-obc-test": true
+            }
+        },
+        "datastax": {
+            "environments": {
+                "nbs-obc-dev": true,
+                "nbs-obc-test": true
+            }
+        }
+    },
+    "additionalInstances": [
+        
+    ]
+}
